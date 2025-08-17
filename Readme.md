@@ -40,7 +40,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/" target="_blank">
+<a href="www.linkedin.com/in/abhishek-prajapat-0a007834a" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://x.com/abhiqtx" target="_blank">
