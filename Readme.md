@@ -40,13 +40,13 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://twitter.com/YOUR-TWITTER" target="_blank">
+<a href="https://x.com/abhiqtx" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="mailto:YOUR-EMAIL" target="_blank">
+<a href="mailto:abhishekprajapati8756@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
